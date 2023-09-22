@@ -21,6 +21,10 @@ https://github.com/minsawook/dev_Study_app/assets/92355477/0a684d99-4033-4174-9f
 <img src="https://github.com/minsawook/dev_Study_app/assets/92355477/ba384d24-6dd5-41cd-8ec1-38b752abcc45.png" width="400" height="800"/>
 
 
+
+
+
+
 ### - [그룹원들 채팅]
 
 그룹원들간의 채팅이 가능하며 읽지않은 메시지의 개수를 표시해줍니다.
@@ -28,6 +32,9 @@ https://github.com/minsawook/dev_Study_app/assets/92355477/0a684d99-4033-4174-9f
 
 <img src="https://github.com/minsawook/dev_Study_app/assets/92355477/903fca6c-77e6-41dd-9a4a-48fcea40d6db.png" width="400" height="800"/>
 <img src="https://github.com/minsawook/dev_Study_app/assets/92355477/6e90d8da-a17a-4385-ab2a-2bbfac39ecfe.png" width="400" height="800"/>
+
+
+
 
 
 ### - [카테고리별 커뮤니티 기능]
