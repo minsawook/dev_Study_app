@@ -4,7 +4,7 @@
 
 ## 메인화면
 
-![K-013](https://github.com/minsawook/dev_Study_app/assets/92355477/f326d0c2-0db3-48d2-855b-bd3f884a4b5a)
+ ![K-013](https://github.com/minsawook/dev_Study_app/assets/92355477/f326d0c2-0db3-48d2-855b-bd3f884a4b5a)
 
 
 
@@ -24,7 +24,8 @@ https://github.com/minsawook/dev_Study_app/assets/92355477/0a684d99-4033-4174-9f
 ### - [그룹원들 채팅]
 
 그룹원들간의 채팅이 가능하며 읽지않은 메시지의 개수를 표시해줍니다.
-<br> </br>
+
+
 <img src="https://github.com/minsawook/dev_Study_app/assets/92355477/903fca6c-77e6-41dd-9a4a-48fcea40d6db.png" width="400" height="800"/>
 <img src="https://github.com/minsawook/dev_Study_app/assets/92355477/6e90d8da-a17a-4385-ab2a-2bbfac39ecfe.png" width="400" height="800"/>
 
