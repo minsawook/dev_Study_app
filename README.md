@@ -6,6 +6,7 @@
 
 ### - [스터디 그룹 생성]
 
+스터디 이름과 설명 그리고 팀원과 포지션을 정할 수있고 스터디 그룹 신청자를 수락학지 거절할 지 정할 수있습니다.
 
 https://github.com/minsawook/dev_Study_app/assets/92355477/0a684d99-4033-4174-9fd8-53a97053cbd2
 
@@ -17,12 +18,17 @@ https://github.com/minsawook/dev_Study_app/assets/92355477/0a684d99-4033-4174-9f
 
 ### - [그룹원들 채팅]
 
+그룹원들간의 채팅이 가능하며 읽지않은 메시지의 개수를 표시해줍니다.
+<br> </br>
 <img src="https://github.com/minsawook/dev_Study_app/assets/92355477/903fca6c-77e6-41dd-9a4a-48fcea40d6db.png" width="400" height="800"/>
 
 <img src="https://github.com/minsawook/dev_Study_app/assets/92355477/6e90d8da-a17a-4385-ab2a-2bbfac39ecfe.png" width="400" height="800"/>
 
 
 ### - [카테고리별 커뮤니티 기능]
+
+메인 에서는많이 본 순으로 3개의 글을 추천해 줍니다.
+글에 들어 간 후에는 댓글 기능과 대댓글 기능이 있습니다.
 <img src="https://github.com/minsawook/dev_Study_app/assets/92355477/d8d59ecc-741f-4b9b-a159-55d9eb29d02a.png" width="400" height="800"/>
 
 <img src="https://github.com/minsawook/dev_Study_app/assets/92355477/95e7d407-16c8-4b8a-ae78-0c0053671715.png" width="400" height="800"/>
