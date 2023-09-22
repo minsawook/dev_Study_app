@@ -61,7 +61,7 @@ class StudyInfoController extends GetxController{
 
     // 필드를 삭제할 문서의 참조 가져오기
     DocumentReference docRef = firestore.collection('studyGroup').doc
-      (model['groupName']);
+      (model['studyId']);
 
     // 현재 문서의 데이터 가져오기
     DocumentSnapshot docSnapshot = await docRef.get();
@@ -114,7 +114,7 @@ class StudyInfoController extends GetxController{
         .collection
       ('studyGroup');
 
-    await studyGroup.doc(model['groupName']).update({
+    await studyGroup.doc(model['studyId']).update({
       "member" : data,
       "positionList" : _positionList
     });

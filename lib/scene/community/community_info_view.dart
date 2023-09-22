@@ -319,8 +319,9 @@ class CommunityInfoView extends GetView<CommunityInfoController>{
   index=0, String commentId = ""}){
     return GestureDetector(
       onLongPress: (){
-        controller.setReply( isMessage? data['name'] :
-        commentId, true, data.id.toString());
+        controller.setReply( /*isMessage? */data['name']/* :
+        commentId*/, true, isMessage? data.id.toString() :
+        commentId);
         FocusScope.of(context).requestFocus(controller.focusNode);
       },
       child: Row(
@@ -350,7 +351,7 @@ class CommunityInfoView extends GetView<CommunityInfoController>{
                                   fontWeight: FontWeight.bold,
                                   size: 17,),
                                 const SizedBox(width: 5,),
-                                if(data['email'] == AuthController.instance.userModel.value
+                                if(docData!['title'] == AuthController.instance.userModel.value
                                     .email)
                                   Container(
                                     padding: const EdgeInsets.symmetric(horizontal: 3),
@@ -391,22 +392,8 @@ class CommunityInfoView extends GetView<CommunityInfoController>{
                                         value: 0,
                                         child: Text('삭제'),
                                       ),
-                                      // const PopupMenuItem<SampleItem>(
-                                      //   value: SampleItem.itemTwo,
-                                      //   child: Text('Item 2'),
-                                      // ),
-                                      // const PopupMenuItem<SampleItem>(
-                                      //   value: SampleItem.itemThree,
-                                      //   child: Text('Item 3'),
-                                      // ),
                                     ],
                                   ),
-                                //   GestureDetector(
-                                //   onTap: (){
-                                //
-                                //   },
-                                //   child: Image.asset('${Common.iconImgPath}icon_menu_dot.png',height: 15,),
-                                // )
                               ],
                             ),
                             const SizedBox(height: 5,),
