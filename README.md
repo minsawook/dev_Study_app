@@ -1,8 +1,8 @@
 # dev_studygroup_app
 
-A new Flutter project.
+개발자들의 스터디팀 및 프로젝트팀과 커뮤니티를 지원하는 앱
 
-## Getting Started
+## 주요특징들
 
 This project is a starting point for a Flutter application.
 
