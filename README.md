@@ -31,6 +31,7 @@ https://github.com/minsawook/dev_Study_app/assets/92355477/0a684d99-4033-4174-9f
 ### - [프로필 변경 기능]
 <img src="https://github.com/minsawook/dev_Study_app/assets/92355477/57f48b56-f602-425b-a1af-b84ab13236ba.png" width="400" height="800"/>
 
+
 ## 사용된 기술 및 패키지
 
 - get : 효율적인 상태 관리를 강화하여 UI 구성 요소 처리 및 업데이트 프로세스를 단순화합니다.
