@@ -1,0 +1,18 @@
+{
+  "connection:" :[
+    "1@gmail.com",
+    "2@gmail.com"
+  ],
+  "chat" :[
+    {
+      "send" : "1@gmail.com",
+      "receive": [
+        "1@gmail.com",
+        "2@gmail.com"
+      ],
+      "message" : "hi",
+      "time" : "2022-08-",
+      "isRead: " : true
+    }
+  ]
+}

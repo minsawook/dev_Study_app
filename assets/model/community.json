@@ -1,0 +1,15 @@
+{
+  "title" : "",
+  "writer" : "",
+  "time" : "",
+  "text" : "",
+  "photoList" : [],
+  "like" : 0,
+  "viewCount" : 0,
+  "category" : "",
+  "comment" : [{
+    "writer" : "",
+    "text" : "",
+    "tile" : ""
+  }]
+}

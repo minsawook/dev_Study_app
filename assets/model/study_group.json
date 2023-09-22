@@ -1,0 +1,25 @@
+{
+   "groupName": "",
+    "desc" : "",
+   "groupLeader" : "",
+   "member" :[
+      "1","2"
+   ],
+   "studyImg": "",
+   "createdAt" : "",
+   "positionList" :[
+      {  "positionName" :  "",
+         "max": 0,
+         "current": 0
+      }
+   ],
+   "RequestJoin" : [
+      {
+         "name" : "",
+         "desc" : "",
+         "position" : "",
+         "profileUrl" : "",
+         "uid" : ""
+      }
+   ]
+}
