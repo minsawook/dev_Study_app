@@ -6,11 +6,8 @@
 
 - [스터디 그룹 생성]
 
-
-
 <img src="(https://github.com/minsawook/dev_Study_app/assets/92355477/d94b57ad-18ad-4708-9188-28009e2fc3d4).png" width="200" height="400"/>
 <img src="(https://github.com/minsawook/dev_Study_app/assets/92355477/ba384d24-6dd5-41cd-8ec1-38b752abcc45).png" width="200" height="400"/>
-
 
 
 - [그룹원들 채팅]
