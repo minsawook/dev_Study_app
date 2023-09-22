@@ -2,6 +2,11 @@
 
 개발자들의 스터디팀 및 프로젝트팀과 커뮤니티를 지원하는 앱
 
+## 메인화면
+
+<img src="https://github.com/minsawook/dev_Study_app/assets/92355477/263f4732-da99-487b-9a22-5f748e8f3a9e.png" width="400" height="800"/
+
+
 ## 주요특징들
 
 ### - [스터디 그룹 생성]
